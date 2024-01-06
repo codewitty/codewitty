@@ -9,7 +9,7 @@ I'm Joshua, a passionate and creative developer dedicated to building innovative
     
   - **Plant Parent**: Meet 'Plant Parent', your compact plant care assistant. This application monitors soil moisture and UV radiation, ensuring your beloved plants receive the perfect balance of water and sunlight. It's an essential tool for every plant lover, helping you keep your green friends thriving. 🌿🌞🌱 [View Project](https://github.com/codewitty/Plant-Parent)
   
-  - **Statement Sifter**: Simplify your expense tracking with 'Statement Sifter'. This innovative tool extracts expense data from PDF statements for specific vendors and seamlessly writes them to Google Sheets. It's an efficient solution for managing and analyzing your financial transactions. [View Project](https://github.com/codewitty/StatementSifter)
+  - **Statement Sifter**: Simplify your expense tracking with 'Statement Sifter'. This tool extracts expense data from PDF statements for specific vendors and seamlessly writes them to Google Sheets. It's an efficient solution for managing and analyzing your financial transactions. [View Project](https://github.com/codewitty/StatementSifter)
 
 
 ## 📫 How to reach me:
