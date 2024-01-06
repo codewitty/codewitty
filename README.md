@@ -2,7 +2,7 @@
 
 I'm Joshua, a passionate and creative developer dedicated to building innovative and efficient software solutions. Welcome to my GitHub profile!
 
-- 🌐 Check out my portfolio: **[[Portfolio Website](https://codewitty.github.io/resume/)]**. Here, you can find more about my projects, skills, and professional journey. Feel free to explore!
+- 🌐 Check out my portfolio: **[Portfolio Website](https://codewitty.github.io/resume/)**. Here, you can find more about my projects, skills, and professional journey. Feel free to explore!
 
 - 🔭 My showcase projects:
   1. **Youtube Search Engine**: A dynamic tool that searches YouTube for videos based on a desired query. It presents a curated list of video thumbnails, offering easy access to watch on YouTube. Additionally, this engine allows users to download the metadata for each video in a convenient CSV format. [View Project](https://github.com/codewitty/YoutubeSearchEngine)
