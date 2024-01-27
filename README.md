@@ -1,6 +1,7 @@
 # Hello World 👋
 
 I'm Joshua, a passionate and creative developer dedicated to building innovative and efficient software solutions. 
+
 Welcome to my GitHub profile!
 
 - 🌐 Check out my [portfolio](https://codewitty.github.io/resume/): Here, you can find more about my projects, skills, and professional journey. Feel free to explore!
