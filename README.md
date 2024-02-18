@@ -4,7 +4,7 @@ I'm Joshua, a passionate and creative developer dedicated to building innovative
 
 Welcome to my GitHub profile!
 
-- 🌐 Check out my [portfolio](https://codewitty.github.io/resume/): Here, you can find more about my projects, skills, and professional journey. Feel free to explore!
+- 🌐 Check out my [portfolio]([https://joshuagomes.vercel.app]): Here, you can find more about my projects, skills, and professional journey. Feel free to explore!
 
 ## 🚀 My showcase projects:
   - **Youtube Search Engine**: A dynamic tool that searches YouTube for videos based on a desired query. It presents a curated list of video thumbnails, offering easy access to watch on YouTube. Additionally, this engine allows users to download the metadata for each video in a convenient CSV format. [View Project](https://github.com/codewitty/YoutubeSearchEngine)
