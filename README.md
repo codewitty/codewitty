@@ -30,6 +30,17 @@ I build production-grade AI platform infrastructure — LLM observability, RAG s
 
 **Observability** · Prometheus · Grafana · Datadog
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewitty&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitty&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitty&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
 ## 📫 Reach me
 
 - **Email** — gomesjoshua@gmail.com
