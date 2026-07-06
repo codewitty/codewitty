@@ -33,6 +33,11 @@ I build production-grade AI platform infrastructure — LLM observability, RAG s
 ## 📊 GitHub stats
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats-mu-lovat-14.vercel.app/api?username=codewitty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="Joshua's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-mu-lovat-14.vercel.app/api/top-langs/?username=codewitty&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitty&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
