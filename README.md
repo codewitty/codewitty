@@ -33,11 +33,6 @@ I build production-grade AI platform infrastructure — LLM observability, RAG s
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewitty&style=for-the-badge&label=Profile+Views&color=1a1b27&labelColor=1a1b27" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/codewitty?style=for-the-badge&logo=github&label=Followers&color=1a1b27&labelColor=1a1b27" alt="GitHub followers" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewitty&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
